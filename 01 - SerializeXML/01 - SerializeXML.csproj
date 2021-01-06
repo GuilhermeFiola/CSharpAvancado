@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_01___SerializeXML</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\00 - Bibliotecas\00 - Bibliotecas.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="XMLOutput\" />
+  </ItemGroup>
+
+</Project>
