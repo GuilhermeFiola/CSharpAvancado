@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00 - Bibliotecas", "00 - Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - DeserializeXML", "02 - DeserializeXML\02 - DeserializeXML.csproj", "{08AA4B53-205A-4FFB-B99B-540C5B0085E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - SerializeJSON", "03 - SerializeJSON\03 - SerializeJSON.csproj", "{B8A3FCEF-F8E7-4350-80CC-1998A9206521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - SerializeJSON", "03 - SerializeJSON\03 - SerializeJSON.csproj", "{B8A3FCEF-F8E7-4350-80CC-1998A9206521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - DeserializeJSON", "04 - DeserializeJSON\04 - DeserializeJSON.csproj", "{26B49808-6E3F-43BA-B167-12144E684A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 - DeserializeJSON", "04 - DeserializeJSON\04 - DeserializeJSON.csproj", "{26B49808-6E3F-43BA-B167-12144E684A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Generics", "05 - Generics\05 - Generics.csproj", "{461E5912-F24C-4C5F-8D14-BB91C5E5F729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{26B49808-6E3F-43BA-B167-12144E684A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26B49808-6E3F-43BA-B167-12144E684A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26B49808-6E3F-43BA-B167-12144E684A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461E5912-F24C-4C5F-8D14-BB91C5E5F729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461E5912-F24C-4C5F-8D14-BB91C5E5F729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461E5912-F24C-4C5F-8D14-BB91C5E5F729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461E5912-F24C-4C5F-8D14-BB91C5E5F729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
